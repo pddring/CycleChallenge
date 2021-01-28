@@ -1,0 +1,13 @@
+﻿<Window x:Class="CycleChallenge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CycleChallenge"
+        mc:Ignorable="d"
+        Title="MainWindow" Background="Transparent" Height="67.582" Width="115.934" AllowsTransparency="True" WindowStyle="None" Topmost="True">
+    <Grid>
+        <Label Content="007" HorizontalAlignment="Left" Height="93" Margin="10,0,0,0" VerticalAlignment="Top" Width="147" FontFamily="Bahnschrift Light" FontSize="48"/>
+
+    </Grid>
+</Window>
