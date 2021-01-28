@@ -24,5 +24,11 @@ namespace CycleChallenge
         {
             InitializeComponent();
         }
+
+        private void Window_Activated(object sender, EventArgs e)
+        {
+            Left = 0;
+            Top = 0;
+        }
     }
 }
